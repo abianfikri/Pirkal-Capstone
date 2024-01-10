@@ -4,7 +4,7 @@
 
 ## Tentang Aplikasi
 
-Aplikasi POS atau point of sales adalah aplikasi yang digunakan untuk mengelola transaksi pada sebuah toko atau oleh kasir. Aplikasi ini dibuat menggunakan Laravel v8.* dan minimal PHP v7.4 jadi apabila pada saat proses instalasi atau penggunaan terdapat error atau bug kemungkinan karena versi dari PHP yang tidak support.
+Aplikasi POS atau point of sales adalah aplikasi yang digunakan untuk mengelola transaksi pada sebuah toko atau oleh kasir. Aplikasi ini dibuat menggunakan Laravel v8.* dan minimal PHP v7.4 jadi apabila pada saat proses instalasi atau penggunaan terdapat error atau bug kemungkinan karena versi dari PHP yang tidak support.Aplikasi ini ada guna untuk memenuhi kebutuhan dari suatu toko atau restoran untuk memanage tokonya
 
 ### Beberapa Fitur yang tersedia:
 - Manajemen Kategori Produk
@@ -33,13 +33,13 @@ Aplikasi POS atau point of sales adalah aplikasi yang digunakan untuk mengelola 
 - Grafik ChartJS pada Dashboard
 
 ## Instalasi
-#### Via Git
+<!-- #### Via Git
 ```bash
 git clone https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales.git
-```
+``` -->
 
-### Download ZIP
-[Link](https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales/archive/refs/heads/main.zip)
+<!-- ### Download ZIP
+[Link](https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales/archive/refs/heads/main.zip) -->
 
 ### Setup Aplikasi
 Jalankan perintah 
@@ -63,14 +63,14 @@ DB_DATABASE=example_app
 DB_USERNAME=root
 DB_PASSWORD=
 ```
-Opsional
+<!-- Opsional
 ```bash
 APP_NAME=Laravel
 APP_ENV=local
 APP_KEY=base64:QGRW4K7UVzS2M5HE2ZCLlUuiCtOIzRSfb38iWApkphE=
 APP_DEBUG=true
 APP_URL=http://example-app.test
-```
+``` -->
 Generate key
 ```bash
 php artisan key:generate
@@ -88,10 +88,10 @@ Menjalankan aplikasi
 php artisan serve
 ```
 
-## Link Tutorial
+<!-- ## Link Tutorial
 
 - [Youtube](https://www.youtube.com/playlist?list=PLaN75JfoGz0Okf9f_7GbGM5IFaLXWx-_C)
-- [W2Learn](https://www.w2learn.com)
+- [W2Learn](https://www.w2learn.com) -->
 
 ## License
 
